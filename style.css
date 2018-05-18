@@ -15,11 +15,6 @@ body {
 .a4, .a5 {
     padding-top: 15px;
 }
- /* .container::after {
-    content: "";
-    display: table;
-    clear: both;
-}  */
 
 .header {
     background-color: #ebebeb;
